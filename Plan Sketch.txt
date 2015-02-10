@@ -1,0 +1,10 @@
+Working plan sketch on qtip 10.2 => 24.2
+
+
+1.Understand the end result
+2.Set Goals
+3.Decide on the software
+4.Look in to JSON
+5.Revise PHP/JS
+6.Make a structure chart
+7.WORK ON IT.
